@@ -1,0 +1,17 @@
+
+
+<suite name="reddy">
+<test name="prasad">
+<classes>
+
+<class  name="Testing"/>
+
+</classes>
+
+
+
+</test>
+
+
+
+</suite>

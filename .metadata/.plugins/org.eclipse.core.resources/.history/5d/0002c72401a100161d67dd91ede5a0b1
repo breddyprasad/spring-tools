@@ -1,0 +1,13 @@
+
+
+<suite name="Qedge">
+  <test name="Testing">
+    <classes>
+       <class name="com.Testing.Java"/>
+       <class name="Selenium"/>
+       <class name="Testing"/>
+       
+       
+    </classes>
+  </test>
+</suite>

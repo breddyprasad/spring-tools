@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="reddy" duration-ms="47" started-at="2016-11-02T13:48:46Z" finished-at="2016-11-02T13:48:46Z">
+    <groups>
+    </groups>
+    <test name="prasad" duration-ms="47" started-at="2016-11-02T13:48:46Z" finished-at="2016-11-02T13:48:46Z">
+      <class name="Testing.Selenium">
+        <test-method status="PASS" signature="Before()[pri:0, instance:Testing.Selenium@7c0e2abd]" name="Before" is-config="true" duration-ms="10" started-at="2016-11-02T19:18:46Z" finished-at="2016-11-02T19:18:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="Main3()[pri:0, instance:Testing.Selenium@7c0e2abd]" name="Main3" duration-ms="1" started-at="2016-11-02T19:18:46Z" finished-at="2016-11-02T19:18:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Main3 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:Testing.Selenium@7c0e2abd]" name="After" is-config="true" duration-ms="1" started-at="2016-11-02T19:18:46Z" finished-at="2016-11-02T19:18:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+      </class> <!-- Testing.Selenium -->
+      <class name="Testing.Testing">
+        <test-method status="PASS" signature="Main()[pri:0, instance:Testing.Testing@48eff760]" name="Main" duration-ms="7" started-at="2016-11-02T19:18:46Z" finished-at="2016-11-02T19:18:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Main -->
+      </class> <!-- Testing.Testing -->
+      <class name="Testing.Java">
+        <test-method status="PASS" signature="Main1()[pri:0, instance:Testing.Java@402f32ff]" name="Main1" duration-ms="1" started-at="2016-11-02T19:18:46Z" finished-at="2016-11-02T19:18:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Main1 -->
+      </class> <!-- Testing.Java -->
+    </test> <!-- prasad -->
+  </suite> <!-- reddy -->
+</testng-results>

@@ -1,0 +1,19 @@
+
+
+<suite name="reddy">
+<test name="prasad">
+<classes>
+
+<class  name="Testing.Testing"/>
+
+<class  name="Testing.Java"/>
+<class  name="Testing.Selenium"/>
+</classes>
+
+
+
+</test>
+
+
+
+</suite>

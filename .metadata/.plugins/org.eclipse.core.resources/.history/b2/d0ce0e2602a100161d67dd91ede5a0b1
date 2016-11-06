@@ -1,0 +1,18 @@
+
+
+<suite name="reddy">
+<test name="prasad">
+<classes>
+
+<class  name="com.Testing.Testing"/>
+
+
+</classes>
+
+
+
+</test>
+
+
+
+</suite>

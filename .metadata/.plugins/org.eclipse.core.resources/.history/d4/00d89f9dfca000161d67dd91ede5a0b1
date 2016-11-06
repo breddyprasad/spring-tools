@@ -1,0 +1,9 @@
+package Com.Com.Test;
+
+import org.testng.annotations.Test;
+
+public class NewT {
+  @Test
+  public void f() {
+  }
+}
